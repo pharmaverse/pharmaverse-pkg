@@ -1,0 +1,10 @@
+Package: pharmaverse
+Title: Navigate pharmaverse
+Version: 0.0.0.9000
+Authors@R: 
+    person("Ari", "Siggaard Knoph", , "aikp@novonordisk.com", role = c("aut", "cre"))
+Description: Easily navigate the pharmaverse packages and communities.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
