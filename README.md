@@ -1,6 +1,6 @@
 <p>
 
-![NNtfl](./man/figures/banner.png =110x)<span style="font-size:100px"><sup><font color="#FF0043">pharmaverse</font></sup></span>
+![pharmaverse](./man/figures/banner.png =110x)<span style="font-size:100px"><sup><font color="#FF0043">pharmaverse</font></sup></span>
 </p>
 
 <!-- badges: start -->
