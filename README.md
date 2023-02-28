@@ -1,5 +1,5 @@
 
-# <span style="color:#ff0043">pharmaverse</span> <img src="man/figures/banner.png" align="right" alt="" width="120" />
+# pharmaverse <img src="man/figures/banner.png" align="right" alt="" width="120" />
 
 
 <!-- badges: start -->
