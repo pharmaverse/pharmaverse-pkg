@@ -1,7 +1,6 @@
-<p>
 
-![pharmaverse](./man/figures/banner.png =110x)<span style="font-size:100px"><sup><font color="#FF0043">pharmaverse</font></sup></span>
-</p>
+# <span style=\"color:#FF0043\">pharmaverse</span> <img src=\"man/figures/banner.png\" align=\"right\" alt=\"\" width=\"120\" />'
+
 
 <!-- badges: start -->
 <!-- badges: end -->
