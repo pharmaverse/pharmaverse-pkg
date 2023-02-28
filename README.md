@@ -1,10 +1,12 @@
+<p>
 
-# pharmaverse
+![NNtfl](./man/figures/banner.png =110x)<span style="font-size:100px"><sup><font color="#FF0043">pharmaverse</font></sup></span>
+</p>
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of pharmaverse is to ...
+A community of passionate individuals and organisations committed to co-creating efficiency in our mission to improve health.
 
 ## Installation
 
@@ -13,14 +15,5 @@ You can install the development version of pharmaverse from [GitHub](https://git
 ``` r
 # install.packages("devtools")
 devtools::install_github("pharmaverse/pharmaverse-pkg")
-```
-
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-library(pharmaverse)
-## basic example code
 ```
 
