@@ -1,7 +1,4 @@
 
-
-
-
 #' Join a pharmaverse workspace
 #'
 #' @param space \code{character} Name of the space you would like to join:

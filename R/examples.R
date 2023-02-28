@@ -1,5 +1,4 @@
 
-
 #' Open pharmaverse examples
 #'
 #' @return The function is executed for its side-effects
