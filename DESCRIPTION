@@ -6,6 +6,7 @@ Authors@R: c(
     person(given = "pharmaverse", role = c("cph"))
     )
 Description: Easily navigate the pharmaverse packages and communities.
+Language: en-US
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
