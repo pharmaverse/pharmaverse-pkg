@@ -7,6 +7,9 @@
 
 A community of passionate individuals and organisations committed to co-creating efficiency in our mission to improve health.
 
+Visit [pharmaverse](https://pharmaverse.org/).
+
+
 ## Installation
 
 You can install the development version of pharmaverse from [GitHub](https://github.com/) with:
