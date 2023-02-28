@@ -5,7 +5,9 @@
 #' @export
 #'
 #' @examples
+#' \dontrun{
 #' pharmaverse::examples()
+#' }
 examples <- function(){
 
   # Return guest to webpage

@@ -10,7 +10,9 @@
 #' @export
 #'
 #' @examples
+#' \dontrun{
 #' pharmaverse::join("github")
+#' }
 join <- function(space) {
 
 
