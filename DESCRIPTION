@@ -16,3 +16,6 @@ Imports:
     httr
 URL: https://github.com/pharmaverse/pharmaverse-pkg
 BugReports: https://github.com/pharmaverse/pharmaverse-pkg/issues
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
