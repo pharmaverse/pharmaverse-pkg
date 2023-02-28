@@ -13,5 +13,7 @@ The function is executed for its side-effects
 Open pharmaverse examples
 }
 \examples{
+\dontrun{
 pharmaverse::examples()
+}
 }

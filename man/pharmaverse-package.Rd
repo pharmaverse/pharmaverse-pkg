@@ -8,8 +8,21 @@
 \description{
 Easily navigate the pharmaverse packages and communities.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/pharmaverse/pharmaverse-pkg}
+  \item Report bugs at \url{https://github.com/pharmaverse/pharmaverse-pkg/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Ari Siggaard Knoph \email{aikp@novonordisk.com}
+
+Other contributors:
+\itemize{
+  \item pharmaverse [copyright holder]
+}
 
 }
 \keyword{internal}

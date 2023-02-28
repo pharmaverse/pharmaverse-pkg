@@ -21,5 +21,7 @@ The function is executed for its side-effects
 Join a pharmaverse workspace
 }
 \examples{
+\dontrun{
 pharmaverse::join("github")
+}
 }

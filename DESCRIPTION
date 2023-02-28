@@ -1,12 +1,10 @@
 Package: pharmaverse
 Title: Navigate pharmaverse
 Version: 0.0.0.9000
-Authors@R: 
-  c(
-    person("Ari", "Siggaard Knoph", , "aikp@novonordisk.com", role = c("aut", "cre")),
-    person(given = "pharmaverse",
-           role = c("cph")
-   )
+Authors@R: c(
+    person("Ari", "Siggaard Knoph", email = "aikp@novonordisk.com", role = c("aut", "cre")),
+    person(given = "pharmaverse", role = c("cph"))
+    )
 Description: Easily navigate the pharmaverse packages and communities.
 License: MIT + file LICENSE
 Encoding: UTF-8
