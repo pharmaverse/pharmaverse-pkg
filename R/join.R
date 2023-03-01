@@ -28,7 +28,7 @@ join <- function(space) {
     httr::BROWSE(url = "https://github.com/pharmaverse")
 
   if (space == "slack")
-    httr::BROWSE(url = "https://app.slack.com/client/T028PB489D3/C03J2MD2SLC")
+    httr::BROWSE(url = "https://join.slack.com/t/pharmaverse/shared_invite/zt-1q2dkm893-3FSrFuWcFkMp7YRS28njNQ")
 
   if (space == "linkedin")
     httr::BROWSE(url = "https://www.linkedin.com/groups/9126149/")
