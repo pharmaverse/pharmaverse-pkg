@@ -6,6 +6,8 @@ This is a resubmission. In this version I have:
 
 * Updated the DESCRIPTION description to be more clear about the intent of the package.
 
+* Added test on spelling.
+
 
 ## R CMD check results
 
