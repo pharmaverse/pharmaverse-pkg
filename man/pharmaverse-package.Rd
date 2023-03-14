@@ -4,9 +4,9 @@
 \name{pharmaverse-package}
 \alias{pharmaverse}
 \alias{pharmaverse-package}
-\title{pharmaverse: Navigate Pharmaverse}
+\title{pharmaverse: Navigate 'Pharmaverse'}
 \description{
-The 'pharmaverse' is a set of packages that compose multiple pathways through clinical data generation and reporting in the pharmaceutical industry. Learn more about the 'pharmaverse' at \url{https://www.pharmaverse.org}.
+The 'pharmaverse' is a set of packages that compose multiple pathways through clinical data generation and reporting in the pharmaceutical industry. This package is designed to guide users to our workspaces on GitHub, Slack and LinkedIn as well as our website and examples to learn more about the packages in 'pharmaverse'. Learn more about the 'pharmaverse' at \url{https://pharmaverse.org}.
 }
 \seealso{
 Useful links:
