@@ -7,6 +7,8 @@ Authors@R: c(
     )
 Description: The 'pharmaverse' is a set of packages that compose multiple pathways 
     through clinical data generation and reporting in the pharmaceutical industry.
+    This package is designed to guide users to our workspaces on GitHub, Slack and LinkedIn 
+    as well as our website and examples to learn more about the packages in 'pharmaverse'.
     Learn more about the 'pharmaverse' at <https://pharmaverse.org>.
 Language: en-US
 License: MIT + file LICENSE
