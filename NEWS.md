@@ -1,7 +1,5 @@
 # pharmaverse 0.0.2
 
-# pharmaverse 0.0.1
-
 * {pharmaverse} navigation is live!
 
 # pharmaverse 0.0.0.9000
