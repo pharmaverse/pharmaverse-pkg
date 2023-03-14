@@ -1,5 +1,5 @@
 Package: pharmaverse
-Title: Navigate Pharmaverse
+Title: Navigate 'Pharmaverse'
 Version: 0.0.2
 Authors@R: c(
     person("Ari", "Siggaard Knoph", email = "aikp@novonordisk.com", role = c("aut", "cre")),
