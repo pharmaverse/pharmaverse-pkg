@@ -4,14 +4,15 @@
 \name{pharmaverse-package}
 \alias{pharmaverse}
 \alias{pharmaverse-package}
-\title{pharmaverse: Navigate pharmaverse}
+\title{pharmaverse: Navigate Pharmaverse}
 \description{
-Easily navigate the pharmaverse packages and communities.
+The 'pharmaverse' is a set of packages that compose multiple pathways through clinical data generation and reporting in the pharmaceutical industry. Learn more about the 'pharmaverse' at \url{https://www.pharmaverse.org}.
 }
 \seealso{
 Useful links:
 \itemize{
   \item \url{https://github.com/pharmaverse/pharmaverse-pkg}
+  \item \url{https://pharmaverse.org}
   \item Report bugs at \url{https://github.com/pharmaverse/pharmaverse-pkg/issues}
 }
 
