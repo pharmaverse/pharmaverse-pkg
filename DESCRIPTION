@@ -1,11 +1,13 @@
 Package: pharmaverse
-Title: Navigate pharmaverse
-Version: 0.0.1
+Title: Navigate Pharmaverse
+Version: 0.0.2
 Authors@R: c(
     person("Ari", "Siggaard Knoph", email = "aikp@novonordisk.com", role = c("aut", "cre")),
     person(given = "pharmaverse", role = c("cph"))
     )
-Description: Easily navigate the pharmaverse packages and communities.
+Description: The 'pharmaverse' is a set of packages that compose multiple pathways 
+    through clinical data generation and reporting in the pharmaceutical industry.
+    Learn more about the 'pharmaverse' at <https://www.pharmaverse.org>.
 Language: en-US
 License: MIT + file LICENSE
 Encoding: UTF-8
@@ -13,7 +15,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.0
 Imports: 
     httr
-URL: https://github.com/pharmaverse/pharmaverse-pkg
+URL: https://github.com/pharmaverse/pharmaverse-pkg, https://pharmaverse.org
 BugReports: https://github.com/pharmaverse/pharmaverse-pkg/issues
 Suggests: 
     testthat (>= 3.0.0)
