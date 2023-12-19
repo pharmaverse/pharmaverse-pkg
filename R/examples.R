@@ -11,6 +11,6 @@
 examples <- function(){
 
   # Return guest to webpage
-  httr::BROWSE(url = "http://examples.pharmaverse.org/")
+  httr::BROWSE(url = "https://pharmaverse.github.io/examples/")
 }
 
