@@ -20,7 +20,7 @@ Description: The 'pharmaverse' is a set of packages that compose multiple pathwa
     and 'LinkedIn' as well as our website and examples.
     Learn more about the 'pharmaverse' at <https://pharmaverse.org>.
 Language: en-US
-License: Apache License (>= 2)
+License: Apache License (>= 2) + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.0
