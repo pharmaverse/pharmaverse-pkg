@@ -2,7 +2,16 @@ Package: pharmaverse
 Title: Navigate 'Pharmaverse'
 Version: 0.0.2
 Authors@R: c(
-    person("Ari", "Siggaard Knoph", email = "aikp@novonordisk.com", role = c("aut", "cre")),
+    person("Ari", "Siggaard Knoph", 
+           email = "aikp@novonordisk.com", 
+           role = c("aut", "cre")),
+    person("Ross", "Farrugia", 
+           email = "ross.farrugia@roche.com", 
+           role = c("aut")),
+    person("Mike", "Stackhouse", 
+           email = "mike.stackhouse@atorusresearch.com", 
+           role = c("aut"), 
+           comment = c(ORCID = "0000-0001-6030-723X")),
     person(given = "pharmaverse", role = c("cph"))
     )
 Description: The 'pharmaverse' is a set of packages that compose multiple pathways 
