@@ -20,6 +20,12 @@ Useful links:
 \author{
 \strong{Maintainer}: Ari Siggaard Knoph \email{aikp@novonordisk.com}
 
+Authors:
+\itemize{
+  \item Ross Farrugia \email{ross.farrugia@roche.com}
+  \item Mike Stackhouse \email{mike.stackhouse@atorusresearch.com} (\href{https://orcid.org/0000-0001-6030-723X}{ORCID})
+}
+
 Other contributors:
 \itemize{
   \item pharmaverse [copyright holder]

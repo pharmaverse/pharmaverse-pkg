@@ -1,3 +1,7 @@
+# pharmaverse 0.0.3
+
+* pharmaverse examples have been updated!
+
 # pharmaverse 0.0.2
 
 * {pharmaverse} navigation is live!
