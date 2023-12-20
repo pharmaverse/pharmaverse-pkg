@@ -1,6 +1,6 @@
 Package: pharmaverse
 Title: Navigate 'Pharmaverse'
-Version: 0.0.2
+Version: 0.0.3
 Authors@R: c(
     person("Ari", "Siggaard Knoph", 
            email = "aikp@novonordisk.com", 
